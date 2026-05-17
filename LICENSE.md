@@ -1,4 +1,4 @@
-
+Advanced Mullvad Client | DNS leak protection + torrenting support is the best Mullvad client with DNS leak protection and torrenting support. Secure and optimized.
 
 
 
